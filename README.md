@@ -6,7 +6,7 @@ This repository contains the tasks completed during my TechnoHacks Tech internsh
 
 1.Excel Basic Functions
 Applied basic Excel functions for data cleaning, calculations, and analysis.
-()
+(Excel%20Basic%20Functions.png)
 
 2.Finance Interactive Dashboard
 Created an interactive finance dashboard to visualize financial performance and key metrics.
