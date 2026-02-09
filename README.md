@@ -14,6 +14,8 @@ Created an interactive finance dashboard to visualize financial performance and 
 
 🛠 Tools & Technologies
 
+Power BI
+
 Microsoft Excel
 
 Data Visualization
